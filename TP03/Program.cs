@@ -13,6 +13,7 @@ namespace TP03
             Console.WriteLine("PriceET = " + t.PriceET);
             t.Name = "Smartphone Galaxy S20";
             Console.WriteLine(t.Name);
+            Console.WriteLine("hey");
 
         }
 
